@@ -1,0 +1,38 @@
+{
+  "node_id": "Alice",
+  "identity_key": {
+    "public": "847a14c287f872563e6e5846bbe5210fff76a1f2fc8c2ba87ae61cec9e3b2308",
+    "private": "f0aa03c6109c65c3bd10afe707606d0faef33aa05ceb5731568fd22b20878440"
+  },
+  "signing_key": {
+    "public": "66c0b53e5e9a748d5f00baed72a23542523642cebc87204822ee6b3374e1e88e",
+    "private": "f5a14a5cc144d5f159fe097dd79dc6687f683f8c53bd491f6c07d21ed0298a02"
+  },
+  "ephemeral_key": {
+    "public": "885bbd4361405053215abdb7a8f226b2d4e86fa09d0624f78a720ef6a6f2406f",
+    "private": "a0124daefc0e228ae46c0ed92268a5d894158268de64c99823a19e003f22096e"
+  },
+  "prekeys": {
+    "0": {
+      "public": "849497a853f8cc411b1659ec5b32b75ecc610908f470c0be0a0191a0f5a6901a",
+      "private": "002dba70e35b3e2c32a37e69dc02ec1a8db7449205d32d621fa0b57459c4024a"
+    },
+    "1": {
+      "public": "ffa4e8472f68846c99c91173ac1548f23a0375869fe2f817bbd31cb93db8b37b",
+      "private": "e08fc261ecccc10064e1622478414e3bb5aa2003f85039f1bbe077afa9262571"
+    },
+    "2": {
+      "public": "f125de453090edfea68242c9a6e246e21f8124a9cf2c43e17305314adea9796a",
+      "private": "8862a09a7d05ee7e009adb079ae2667ec931aae48e48a514f948cd0232ebfe7d"
+    },
+    "3": {
+      "public": "0669af3a00cfc376b1cf19d8ad32d05d46228bfa8e3f318271344d9f7785d005",
+      "private": "88b4bea6096ca4c41aacb31f605da57ffc40c8b25081e5732aaa973579e76d66"
+    },
+    "4": {
+      "public": "2efe2e0ba7c99cf818f554611dd3d212716988ef2e4cd16b82c425b038dcf327",
+      "private": "30dbd7f3f3e91b3990bf289bd696886b9c715b12736f5de3b827099c81eb8a62"
+    }
+  },
+  "peer_keys": {}
+}
